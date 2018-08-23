@@ -1,3 +1,8 @@
+var uppercase = "HELLO"
+
+uppercase.toUpperCase() === uppercase;
+
+
 function shout(string) {
   return string.toUpperCase();
 }
