@@ -1,3 +1,3 @@
-function shout(words) {
+function shout(string) {
   
 }
